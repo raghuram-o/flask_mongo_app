@@ -4,7 +4,7 @@ Python Flask connected to Mongodb
 This has to be executed in the venv, Steps for install or initialization
 1. python3 -m venv env
 2. source env/bin/activate
-3. python3 -m flask –app flask.py run
+3. python3 -m flask –app main.py run
 
 **Flask_mongoengine**
 
