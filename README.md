@@ -1,4 +1,4 @@
-# flask_mongo_app
+# flask mongo app
 Python Flask connected to Mongodb
 
 This has to be executed in the venv, Steps for install or initialization
@@ -8,7 +8,7 @@ This has to be executed in the venv, Steps for install or initialization
 
 **Flask_mongoengine**
 
-Requirements packages to be installed(it’ll be in virt_env).
+Requirements packages to be installed(it’ll be in virt env).
 1. Python3 -m pip install flask=2.2.3
 2. pip install flask-mongoengine
 3. pip install wheel
